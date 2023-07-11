@@ -1,0 +1,44 @@
+/* .body{S} */
+.header{
+    width: 100%;
+    background-size: cover;
+    background: rgba(229, 84, 115, 0.10);
+    ;
+    margin-bottom:240px;
+}
+/* .header-section{} */
+.header-1div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.header-h1{
+    color: #272727;
+    font font-size:80px;
+    font-weight:800;
+    margin-bottom: 32px;
+
+}
+.header-paragraph{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 40px;
+    width: 35%;
+    margin-bottom: 32px;
+
+} 
+.header-btn{
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #e55472;
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+}
+. 
+. 
+. 
+. 
