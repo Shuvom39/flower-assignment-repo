@@ -1,13 +1,12 @@
 /* .body{S} */
 .header{
     width: 100%;
+    height: ;
     background-size: cover;
-    background: rgba(229, 84, 115, 0.10);
-    ;
+    background-color: rgba(229, 84, 115, 0.10);
     margin-bottom:240px;
 }
-/* .header-section{} */
-.header-1div{
+.header-1{
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -17,7 +16,6 @@
     font font-size:80px;
     font-weight:800;
     margin-bottom: 32px;
-
 }
 .header-paragraph{
     color: rgba(39, 39, 39, 0.60);
@@ -26,8 +24,7 @@
     line-height: 40px;
     width: 35%;
     margin-bottom: 32px;
-
-} 
+}
 .header-btn{
     padding: 20px 43px;
     gap: 10px;
@@ -38,6 +35,17 @@
     font-weight: 700;
     border: 0;
 }
+
+
+
+
+
+
+
+
+
+
+
 /* main content box */
 .title{
 color:#272727;
@@ -86,7 +94,7 @@ font-weight: 800;
     background-color:rgba(71, 125, 17, 0.15);
     }
 .img1{
-    padding: 110px 70px 0px 76px;
+    padding: 110px 78px 0px 76px;
 }
 .img2{
     padding: 117px 47px 51px 47px;
@@ -127,3 +135,30 @@ font-weight: 800;
     margin-top: 24px;
     width: 100%;
 }
+.sales-promotion{
+    width: 100%;
+    height: 620px;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 8px;
+    background:rgba(229, 84, 115, 0.05);
+    margin-bottom: 128px;
+}
+.sales-ad{
+    text-align: center;
+}
+.hot-deal{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.span-off{
+    color: #e55473;
+    font-size:40px;
+    font-weight: 800;
+}
+.sales-promotion-img{
+
+}
+/* .main-description{} */
