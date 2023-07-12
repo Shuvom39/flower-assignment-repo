@@ -208,6 +208,58 @@ font-weight: 800;
 }
 
 
+.coupon-container{
+    width: 100%;
+    height: 449px;
+    background-image:url(Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 128px;
+}
+.coupon-title{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 122px;
+}
+.coupon-paragraph{
+    color:rgba(39, 39, 39, 0.60) ;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.email-subscribe{
+    width: 700px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #fff;
+}
+.subscribe-option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+.email-label{
+    color:rgba(39, 39, 39, 0.60) ;
+    margin: 22px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.subscribe-btn{
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #e55472;
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+}
+
 
 
 
