@@ -162,82 +162,99 @@ font-weight: 800;
 
 }
 
+.insta-header{
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-about{
+    color:rgba(39, 39, 39, 0.60) ;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .main-description{} */
-.box-img-container
-.main-title
-.main-description
-/* .box-img-container{ */
+}
+.insta-img-content{
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 24px;
     margin-top: 40px;
     margin-bottom: 128px;
+
 }
-/* .box-img1{ */
+.insta-img1{
+    width: 342px;
+    height: 396px;
+    background: lightgray;
+
+}
+.insta-img2{
     width: 342px;
     height: 396px;
     background: lightgray;
 }
-/* .box-img2{ */
+.insta-img3{
     width: 342px;
     height: 396px;
     background: lightgray;
 }
-/* .box-img3{ */
+.insta-img4{
     width: 342px;
     height: 396px;
     background: lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 /* .last-banner-container{ */
     width: 100%;
